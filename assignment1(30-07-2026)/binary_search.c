@@ -1,3 +1,16 @@
+/*
+An online shop keep its product catalogs sorted by product id(whole number) in accending order.
+when a customer search for a specific product id the system return true if the product id present in the catalog
+else it returns false,which searching techinque is used to find the product id quickly from the catalog.
+Implement this searching method uding a function. The function takes parameter product id list,size of the list and 
+product id to be searched.
+     
+
+sample input:[2,8,9,16,18,26,38,48,51,90]
+case1:product id to be reached:49
+case 2:product id to be searche:26
+
+*/
 #include <stdio.h>
 #include<stdbool.h>
 
