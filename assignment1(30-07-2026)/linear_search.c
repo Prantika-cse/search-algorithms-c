@@ -1,3 +1,8 @@
+/*
+In a book library are stored using there acc no. Acc no. is the hole number that cosist 3 digit maximum. Consider an array where access number of books are stored in unorganised way.
+The librarian wants to search for a specific access number in the array. Which searching methodology the librarian must follow . Write the programme to implement this subject 
+technique.
+*/
 #include<stdio.h>
 
 void linearsearch(int arr[],int n,int target){
